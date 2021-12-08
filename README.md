@@ -19,7 +19,7 @@ kivy <br>
 
 # To run this Application
 Move to the directory <br>
-run <h1> python main.py </h1>
+run ## python main.py
 
 # Application GUI
 
