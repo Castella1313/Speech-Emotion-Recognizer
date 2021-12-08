@@ -5,21 +5,21 @@ of the audio data of recordings and
 Create an application to implement the same on user input.
 
 # Python libraries to be installed 
-librosa
-soundfile
-os
-glob
-pickle
-numpy
-sklearn
-time
-pyaudio
-wave
-kivy
+librosa <br>
+soundfile <br>
+os <br>
+glob <br>
+pickle <br>
+numpy <br>
+sklearn <br>
+time <br>
+pyaudio <br>
+wave <br>
+kivy <br>
 
 # To run this Application
-Move to the directory
-run " python main.py "
+Move to the directory <br>
+run <h1> python main.py </h1>
 
 # Application GUI
 
