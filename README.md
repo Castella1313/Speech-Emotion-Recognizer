@@ -4,6 +4,23 @@ In this project, we attempt to detect underlying emotions such as
 of the audio data of recordings and 
 Create an application to implement the same on user input.
 
+# Python libraries to be installed 
+librosa
+soundfile
+os
+glob
+pickle
+numpy
+sklearn
+time
+pyaudio
+wave
+kivy
+
+# To run this Application
+Move to the directory
+run " python main.py "
+
 # Application GUI
 
 <img src="https://user-images.githubusercontent.com/53293156/145163572-1d701a7e-2158-4166-97a3-45e5c33d9ea7.png">
